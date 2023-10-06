@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.css-lz9mh9-MuiToolbar-root {
+  background-color: #26B7B7 !important;
+}
+.css-t039ty-MuiButtonBase-root-MuiButton-root-RaSaveButton-root {
+  content:"Deactivate";
+}
+.css-1vgntmk-RaLayout-root .RaLayout-appFrame
+{
+  margin-top:0px !important;
+}
+.css-i9ktj4-RaLayout-root .RaLayout-appFrame
+{
+  margin-top:0px !important;
+}
